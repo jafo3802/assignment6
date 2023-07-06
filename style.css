@@ -1,24 +1,23 @@
-<link rel="stylesheet" href="style.css">
 
 h1, h2 {
-        color: purple;
+        color: green;
     }
     p {
-        color: gray;
+        color: red;
     }
     ul {
-        border: 2px solid orange;
+        border: 2px solid yellow;
     }
     ol {
-        border: 2px solid purple;
+        border: 2px solid blue;
     }
     ol, ul {
         padding: 5px 20px;
         border-radius: 4px;
     }
     h1, strong {
-        color: purple;
+        color: green;
     }
     em {
-        color: gray;
+        color: red;
     }
